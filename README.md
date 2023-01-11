@@ -1,4 +1,4 @@
-![MasterHead](https://wallpaperaccess.com/full/7167570.png)
+<img alt="Background" height="300" width="1020" src="https://wallpaperaccess.com/full/7167570.png">
 <h1 align="center">Hi 👋, I'm Rohit Sharma</h1>
 <img align="right" alt="Coding" width="400" src="https://contentstatic.techgig.com/thumb/msid-78956017,width-460,resizemode-4/How-to-become-a-software-engineer-in-2021.jpg?85576">
 
