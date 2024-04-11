@@ -4,8 +4,6 @@
 
 - 🔭 I’m currently working on **"Hexaview Technologies"**
 
-- 🌱 I’m currently learning **...Swift 5 , SwiftUI**
-
 - 👯 I’m looking to collaborate on **...Creative Projects**
 
 - 💬 Ask me about **..."web dev software applications"**
